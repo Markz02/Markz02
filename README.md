@@ -1,12 +1,29 @@
 ## Olà, me chamo Marcos, seja bem vindo ao meu GitHub! 
 
 📚 Atualmentente estudando Html, CSS e JS. 
-
+<!--teste 
 <div>
   <a href="https://github.com/Markz02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markz02&show_icons=true&theme=transparent">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markz02&layout=compact&theme=transparent">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=Markz02&show_icons=true&theme=transparent"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markz02&layout=compact&theme=transparent"/>
+</a>
 </div>
+-->
+    
+<!--github stats lado a lado-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Markz02&show_icons=true&theme=transparent"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Markz02&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
+
+
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Markz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,3 +40,4 @@
   <a href="https://www.linkedin.com/in/marcossousadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
