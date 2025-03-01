@@ -9,7 +9,7 @@
 </div>
  -->   
 <!--github stats lado a lado-->
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markz02&show_icons=true&theme=transparent"/>
     </a>
