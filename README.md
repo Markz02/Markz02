@@ -9,12 +9,15 @@
 </div>
  -->   
 <!--github stats lado a lado-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=Markz02&show_icons=true&theme=transparent"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markz02&layout=compact&langs_count=8&card_width=200&theme=transparent"/>
-</a>
+<div style="display: flex; align-items: center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markz02&show_icons=true&theme=transparent"/>
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markz02&layout=compact&langs_count=8&card_width=200&theme=transparent"/>
+    </a>
+</div>
+
 
 
 
