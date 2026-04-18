@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Marcos Sousa **`Desenvolvimento Web`**
+# 👨🏻‍💻 Markz Sousa **`Desenvolvimento Web`**
 
 Escrevo depois algo sobre mim!
 
